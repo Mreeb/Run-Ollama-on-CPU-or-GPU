@@ -1,4 +1,5 @@
-# Run-Ollama-on-CPU-or-GPU
+# Run-Ollama-on-CPU-or-GPU![maxresdefault](https://github.com/Mreeb/Run-Ollama-on-CPU-or-GPU/assets/103059817/e43f74c1-58f2-41f6-80b5-74001ca1e5fd)
+
 Run Ollama AI model on CPU or GPU
 
 
